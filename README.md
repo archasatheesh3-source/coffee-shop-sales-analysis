@@ -1,4 +1,5 @@
- Coffee Shop Sales Analysis — EDA + Power BI Dashboard
+ Coffee Shop Sales Analysis 
+ 
  Project Overview
 
 This project focuses on analysing coffee shop sales data to uncover key business insights and trends.
