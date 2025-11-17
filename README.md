@@ -6,11 +6,16 @@ The workflow includes Exploratory Data Analysis (EDA) using Google Colab and bui
 
 The primary goal is to help the coffee shop understand sales trends, peak hours, popular products, and payment preferences to support better business decisions.
 
-📂 Project Structure
+ Project Structure
+ 
 ├── data/                # Raw and cleaned datasets
+
 ├── notebooks/           # EDA notebook (Google Colab)
+
 ├── powerbi_dashboard/   # Power BI report file (.pbix)
+
 ├── images/              # Dashboard screenshots
+
 └── README.md            # Project documentation
 
  Tools & Technologies
@@ -76,31 +81,18 @@ Card payments dominate over cash transactions.
 
 Seasonal and weekday trends show strong influence on customer footfall.
 
-How to Use This Repository
-
-Clone the repository:
-
-git clone https://github.com/your-username/coffee-shop-sales-analysis.git
+<img width="1309" height="735" alt="coffee shop sales dashboard using power bi" src="https://github.com/user-attachments/assets/3fb3b827-bee8-411d-a49b-f0c9589c0eb2" />
 
 
-Open the EDA notebook in Google Colab.
 
-Download and open the Power BI dashboard (.pbix) to explore insights.
 
-View screenshots in the images folder for a quick overview.
 
-📈 Dashboard Preview
 
-(Add screenshots inside /images and embed them like below)
 
-![Dashboard Screenshot](images/dashboard.png)
 
-📦 Dataset
+ 
 
-If dataset is publicly available, mention the source.
-If not, specify that it is private or self-created.
-
-🤝 Contributions
+ Contributions
 
 Contributions, issues, and suggestions are welcome!
 Feel free to fork the repo and submit a pull request.
